@@ -90,7 +90,6 @@ function createTimeBlock(hour) {
 
   buttonCol.append(saveButton);
 
-
   row.append(timeCol, textareaCol, buttonCol);
 
   return row;
@@ -113,7 +112,6 @@ $(function () {
 
     timeBlockContainer.append(timeBlock);
   }
-
 
 
 })
