@@ -18,7 +18,7 @@ This application is a simple calendar application that allows a user to save eve
 
 ## Website Link
 
-> Live link []
+> Live link [https://maharjn.github.io/WorkDayScheduler/]
 
 ## Screenshot
 The following image shows the web application's appearance and functionality:
